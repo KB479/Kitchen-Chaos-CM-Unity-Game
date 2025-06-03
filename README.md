@@ -1,5 +1,4 @@
-# Kitchen-Chaos #
-Perfect Recreation of Kitchen Chaos - Code Monkey Game
+# Perfect Recreation of Kitchen Chaos - Code Monkey Game #
 Projenin bu versiyonunda Code Monkey - Kitchen Chaos oyununu baştan birebir kopyasını yaptım, yeni versiyonda yeni özellikler ekleyeceğim oyuna. 
 
 ![Ekran görüntüsü 2025-06-03 214642](https://github.com/user-attachments/assets/46ed9018-576c-41ca-b370-7a6b7848af93)
